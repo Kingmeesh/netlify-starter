@@ -1,2 +1,3 @@
 [functions]
   directory = "netlify/functions/"
+  publish = "build"netlify.tomlcommand
